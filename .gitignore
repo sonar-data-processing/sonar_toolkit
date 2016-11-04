@@ -1,0 +1,8 @@
+.settings/
+build
+*.autotools
+*.cproject
+*.project
+.clang_complete
+octave-workspace
+tags
