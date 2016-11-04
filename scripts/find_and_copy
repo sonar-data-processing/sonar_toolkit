@@ -1,0 +1,21 @@
+#!/bin/bash
+
+origin="/media/jarvis/Documents/BIR-dataset/Log/incoming/"
+dest="/home/gustavoneves/masters_degree/dataset/"
+filter="*gemini*log" 
+
+files=$(find $origin -iname $filter)
+total=$(echo "$files" | wc -l)
+num=1
+for f in $files
+do
+    file_size=$(ls -lh $f | awk '{print $5}')
+    ((num+=1))
+    filename="${f#$origin}"
+    filename="${filename//'/'/'_'}"
+    echo "source: $f"
+    echo "dest: $dest$filename"
+    echo "size: $file_size"
+    echo "copying $num of $total ..."
+    cp "$f" "$dest$filename"
+done

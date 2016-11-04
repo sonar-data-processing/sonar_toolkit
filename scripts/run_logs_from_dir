@@ -1,0 +1,18 @@
+#!/bin/bash
+if [ -z ${1:+x} ];
+then
+    LOG_DIR="$(pwd)/logs"
+else
+    LOG_DIR=$1
+fi
+files=$(find $LOG_DIR -size -1073741824c -iname "*log")
+echo "" > list.txt
+for f in $files
+do
+    ret=`rock-replay ${f}`
+    read -p "Show the file path? [y/N] " response
+    case $response in
+        [yY]) echo $(ls -lh $f) >> list.txt
+        ;;
+    esac
+done

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SONARLOG2VIDEO_PATH=/home/gustavoneves/masters_degree/dev/sonar_toolkit/sonarlog2video/build
+
+SONARLOG_INPUT_BALSA=/home/gustavoneves/masters_degree/dataset/logs/20160316-1201-00500_01700-gemini.0.log
+# SONARLOG_INPUT_JEQUITAIA=/home/gustavoneves/masters_degree/dataset/logs/20160316-1347-16800_17150-gemini.0.log
+
+INPUT_FILE=$SONARLOG_INPUT_BALSA
+# INPUT_FILE=$SONARLOG_INPUT_JEQUITAIA
+
+PORT_NAME="gemini.sonar_scan_samples"
+PORT_NAME="gemini.sonar_samples"
+$SONARLOG2VIDEO_PATH/sonarlog2video --input-file=$INPUT_FILE --stream-name=$PORT_NAME
