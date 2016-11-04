@@ -1,0 +1,27 @@
+[submodule "base"]
+	path = base
+	url = git@github.com:sonar-data-processing/base.git
+[submodule "data"]
+	path = data
+	url = git@github.com:sonar-data-processing/data.git
+[submodule "image_picker_tool"]
+	path = image_picker_tool
+	url = git@github.com:sonar-data-processing/image_picker_tool.git
+[submodule "rock_util"]
+	path = rock_util
+	url = git@github.com:sonar-data-processing/rock_util.git
+[submodule "sonarlog2video"]
+	path = sonarlog2video
+	url = git@github.com:sonar-data-processing/sonarlog2video.git
+[submodule "sonarlog_annotation"]
+	path = sonarlog_annotation
+	url = git@github.com:sonar-data-processing/sonarlog_annotation.git
+[submodule "sonarlog_target_tracking"]
+	path = sonarlog_target_tracking
+	url = git@github.com:sonar-data-processing/sonarlog_target_tracking.git
+[submodule "sonar_processing"]
+	path = sonar_processing
+	url = git@github.com:sonar-data-processing/sonar_processing.git
+[submodule "sonar_util"]
+	path = sonar_util
+	url = git@github.com:sonar-data-processing/sonar_util.git
