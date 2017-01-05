@@ -1,0 +1,3882 @@
+---
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.412193
+---
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.440244
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.463337
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.484643
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.504298
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.445928
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.474469
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.502093
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.526144
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.553680
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.474744
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.510864
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.547485
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.574504
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.592490
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.415063
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.441439
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.463597
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.477339
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.496990
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.448437
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.479069
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.507392
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.528658
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.550727
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.482001
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.517950
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.555361
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.572936
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.584311
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.412749
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.441144
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.464886
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.481534
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.496101
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.447097
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.483350
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.511869
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.540706
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.563769
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.481634
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.535283
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.567099
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.583370
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.602278
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.411798
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.438656
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.457443
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.473066
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.490720
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.448230
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.482814
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.511140
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.536049
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.559976
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.486542
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.534562
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.564554
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.582161
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.597143
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.407008
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.432675
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.452645
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.481279
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.511105
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.437765
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.482287
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.521345
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.549561
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.562816
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.487182
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.532922
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.559855
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.588925
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.593632
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.406828
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.431080
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.450454
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.481155
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.510608
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.442714
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.488486
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.523262
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.545569
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.556910
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.495014
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.532787
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.559975
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.583874
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.589954
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.392503
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.422115
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.453911
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.476630
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.484645
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.430222
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.472158
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.494451
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.508331
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.528468
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.467959
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.497209
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.529439
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.548106
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.558631
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.388202
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.420156
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.450419
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.479292
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.485958
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.434954
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.472187
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.494675
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.512930
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.529549
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.469683
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.504510
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.532226
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.548985
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.562197
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.386932
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.412293
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.443800
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.468040
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.489561
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.421801
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.446808
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.477147
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.501120
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.519250
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.443078
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.480544
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.506336
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.534708
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.548094
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.395458
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.418553
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.448992
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.471637
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.481992
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.428958
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.455957
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.482656
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.505084
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.513078
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.454260
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.489601
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.515827
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.526589
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.545515
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.383997
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.425197
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.445355
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.465805
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.485590
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.418823
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.458016
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.491282
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.507233
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.527975
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.443422
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.495785
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.525797
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.545373
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.562297
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.390336
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.422765
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.441131
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.461133
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.480681
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.425752
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.455344
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.486901
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.503321
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.525998
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.456736
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.493025
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.524738
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.543285
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.558486
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.384743
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.413133
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.435383
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.466589
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.486750
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.402652
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.450287
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.486242
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.517274
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.545588
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.437958
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.497572
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.523792
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.557077
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.572762
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.388236
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.410953
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.442432
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.467614
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.488193
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.412303
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.453665
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.493066
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.521821
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.537498
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.448757
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.500310
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.531178
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.556897
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.571884
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.373018
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.402338
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.438818
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.458752
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.471314
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.396770
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.439711
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.469913
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.495715
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.510337
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.422200
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.468666
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.503857
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.531433
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.547496
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.371658
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.402146
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.436630
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.458319
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.470651
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.399865
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.443536
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.474941
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.495160
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.511256
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.425485
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.479160
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.507422
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.532201
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.549451
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.380020
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.401248
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.416557
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.434134
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.447213
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.405429
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.430619
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.449728
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.470903
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.477011
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.425672
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.453796
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.478296
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.500788
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.516954
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.380714
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.402348
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.414992
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.431024
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.445866
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.404621
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.428584
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.447565
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.467882
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.476397
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.424167
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.452920
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.482638
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.501257
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.508063
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.374954
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.395322
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.412022
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.427949
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.446783
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.402648
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.424800
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.447357
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.467245
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.485397
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.429007
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.458844
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.485804
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.504123
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.520350
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.373687
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.393626
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.411474
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.427047
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.442872
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.401418
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.424196
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.448002
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.466981
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.481575
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.427139
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.459340
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.486290
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.503041
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.510565
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.362183
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.382731
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.400778
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.417263
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.445615
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.382622
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.413017
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.448735
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.468396
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.487585
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.416219
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.460826
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.487006
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.507134
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.518608
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.362891
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.382660
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.400656
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.421051
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.441934
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.385541
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.415699
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.452323
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.469271
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.486902
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.422972
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.461371
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.486708
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.503051
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.519584
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.359298
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.371295
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.388866
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.414119
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.436722
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.374691
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.398263
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.426375
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.450492
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.471582
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.396936
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.433481
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.471061
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.491356
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.509235
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.357255
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.368764
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.389947
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.411531
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.433669
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.374704
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.402257
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.427560
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.452869
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.470003
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.395602
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.435643
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.472886
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.484573
+preprocessing_parameters:
+ - clahe_final_clip_limit: 2.000000
+ - mean_filter_ksize: 9
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.502641
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.419785
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.445207
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.464288
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.486033
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.499199
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.450514
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.480757
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.508107
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.526347
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.543944
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.480979
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.514322
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.548942
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.574843
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.586251
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.417729
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.444079
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.461801
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.477955
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.489856
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.448223
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.480823
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.506680
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.523083
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.542818
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.484773
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.518098
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.549350
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.568373
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.581953
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.412817
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.440338
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.457672
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.474020
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.490222
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.446833
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.475242
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.501663
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.529438
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.556547
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.478753
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.528887
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.563485
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.580630
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.594690
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.411870
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.436968
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.452720
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.460913
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.479870
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.446184
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.475800
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.499666
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.524814
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.548866
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.484997
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.529953
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.559332
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.575992
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 50
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.590062
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.407792
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.435132
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.454277
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.480930
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.510510
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.443177
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.489624
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.526254
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.547340
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.563398
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.496353
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.539690
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.562665
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.581937
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.600211
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.408800
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.430365
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.449522
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.476028
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.503506
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.446199
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.490504
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.525284
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.543042
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.554392
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.501938
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.538086
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.559288
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.578020
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 75
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.590237
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.395806
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.420684
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.452391
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.483664
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.503983
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.436078
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.474209
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.504007
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.527380
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.548838
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.476313
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.507225
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.540693
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.560929
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.574887
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.393401
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.414654
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.452046
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.486999
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.497537
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.440504
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.480328
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.507293
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.532185
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 10
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.542347
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.479342
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.520377
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.544281
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.561770
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 5
+ - mean_difference_filter_ksize: 100
+ - median_blur_filter_ksize: 7
+ - saliency_map_block_count: 12
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.569072
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.200000
+ - intersection_percentage: 0.396822
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.300000
+ - intersection_percentage: 0.426839
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.400000
+ - intersection_percentage: 0.457795
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.500000
+ - intersection_percentage: 0.482071
+preprocessing_parameters:
+ - clahe_final_clip_limit: 3.000000
+ - mean_filter_ksize: 7
+ - mean_difference_filter_ksize: 25
+ - median_blur_filter_ksize: 5
+ - saliency_map_block_count: 8
+ - saliency_map_thresh_factor: 0.600000
+ - intersection_percentage: 0.487269

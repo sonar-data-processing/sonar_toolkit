@@ -1,0 +1,18 @@
+---
+clahe_final_clip_limit:
+  3.0: 5
+  2.0: 5
+mean_filter_ksize:
+  5: 10
+mean_difference_filter_ksize:
+  75: 4
+  50: 2
+  25: 3
+  100: 1
+median_blur_filter_ksize:
+  7: 6
+  5: 4
+saliency_map_block_count:
+  10: 10
+saliency_map_thresh_factor:
+  0.3: 10
